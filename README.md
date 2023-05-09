@@ -2,19 +2,18 @@
 
 # open-source-events
 Explore the Open-Source events here
-
+## 2022
 | Name | Organizer | Date |
 |---|---|---|
-| Usage:
-  yaml-readme [flags]
+| 中国开源年会 | 开源社 | 2022年10月29日 |
+| 国际开源节 | OSTech | 2022年11月5日 |
+| Dev Together | 思否 | 2022年12月17日 |
+| 第十三届中国开源黑客松 | CESI | 2022年10月22日 |
 
-Flags:
-      --group-by string   Group the array data by which field
-  -h, --help              help for yaml-readme
-      --include-header    Indicate if include a notice header on the top of the README file (default true)
-  -p, --pattern string    The glob pattern with Golang spec to find files (default "items/*.yaml")
-      --print-functions   Print all the functions and exit
-      --print-variables   Print all the variables and exit
-      --sort-by string    Sort the array data descending by which field, or sort it ascending with the prefix '!'. For example: --sort-by !year
-  -t, --template string   The template file which should follow Golang template spec (default "README.tpl")
+## 2023
+| Name | Organizer | Date |
+|---|---|---|
+| Community Over Code (原 ApacheCon) | Apache | 2023年08月18日 |
+| KubeCon | CNCF | 2023年09月25日 |
+| 全球开源技术峰会 | Linux 基金会亚太区 | 2023年02月25日 |
 
