@@ -25,3 +25,4 @@ jobs:
           org: linuxsuren
           repo: open-source-events
           sortby: date
+          groupby: year
