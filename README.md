@@ -9,4 +9,6 @@ Explore the Open-Source events here
 | 中国开源年会 | 开源社 | 2022年10月29日 |
 | 国际开源节 | OSTech | 2022年11月5日 |
 | Dev Together | 思否 | 2022年12月17日 |
+| Community Over Code (原 ApacheCon) | Apache | 2023年08月18日 |
+| KubeCon | CNCF | 2023年09月25日 |
 | 全球开源技术峰会 | Linux 基金会亚太区 | 2023年2月25日 |
